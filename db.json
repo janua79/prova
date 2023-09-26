@@ -1,0 +1,46 @@
+[
+  {
+    "id": "jhfjhfjfjfjf",
+    "descrizione": "Coda tra Montopoli e Pontedera per veicolo in avaria",
+    "direzione": "Livorno",
+    "km": "44",
+    "strada": "SGC FiPiLi",
+    "icona": "COD",
+    "lat": "43.6735651523558",
+    "lon": "10.742935827432992",
+    "aggiornamento": "2023-10-01 'T' 10:00:00"
+  },
+  {
+    "id": "tryryryryreyery",
+    "descrizione": "Coda a tratti tra Lastra a Signa e Raccordo A1/FiPiLi per traffico intenso",
+    "direzione": "Firenze",
+    "km": "15",
+    "strada": "SGC FiPiLi",
+    "icona": "COD",
+    "lat": "43.70955484081818",
+    "lon": "10.951746661169828",
+    "aggiornamento": "2023-10-01 'T' 11:00:00"
+  },
+  {
+    "id": "gnfjhfjfjfjfjf",
+    "descrizione": "Traffico rallentato tra Santa Croce e San Miniato",
+    "direzione": "Firenze",
+    "km": "38",
+    "strada": "SGC FiPiLi",
+    "icona": "TRL",
+    "lat": "43.69078856757778",
+    "lon": "10.782907352186712",
+    "aggiornamento": "2023-10-01 'T' 12:00:00"
+  },
+  {
+    "id": "hgkfgkfgkfkfkfgk",
+    "descrizione": "Svincolo Li Aurelia chiuso per lavori",
+    "direzione": "provenendo da Livorno",
+    "km": "77",
+    "strada": "SGC FiPiLi",
+    "icona": "CHI",
+    "lat": "43.58477803377731",
+    "lon": "10.357839039500023",
+    "aggiornamento": "2023-10-01 'T' 13:00:00"
+  }
+]
